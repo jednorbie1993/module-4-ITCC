@@ -32,4 +32,12 @@ strcat() → combine strings
 strcmp() → compare strings
 
 strncmp() → compare limited characters
+
+strlen() → check haba ng username
+
+strcpy() → save name sa variable
+
+strcmp() → check login password
+
+
 */
