@@ -21,3 +21,15 @@ int main() {
 
     return 0;
 }
+
+/*
+strlen() → length ng string
+
+strcpy() → copy string
+
+strcat() → combine strings
+
+strcmp() → compare strings
+
+strncmp() → compare limited characters
+*/
