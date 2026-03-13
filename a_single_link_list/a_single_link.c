@@ -42,3 +42,31 @@ int main() {
 
     return 0;
 }
+
+/*
+Input ba ito? → scanf
+Output? → printf
+Decision? → if / switch
+Repeat? → for / while / do while
+Text? → string (strlen, strcpy, strcmp)
+Numbers? → int / float / double
+List? → array
+File? → fopen
+Math calculations? → math.h (sqrt, pow)
+Random numbers? → rand
+Character check? → ctype.h (isdigit, isalpha)
+Convert text to number? → atoi / atof
+Memory allocation? → malloc / free
+Custom reusable code? → function
+Program split into parts? → header files (#include)
+
+Input ba ito? → scanf
+Output? → printf
+Decision? → if
+Repeat? → loop
+Text? → string
+Numbers? → int / float
+List? → array
+File? → fopen
+
+*/
